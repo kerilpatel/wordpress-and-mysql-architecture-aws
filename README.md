@@ -1,4 +1,3 @@
-# wordpress-and-mysql-architecture-aws
 # Deployment of WordPress and MySQL on AWS using Terraform
 Deploying WordPress Website with the dedicated database server (MySQL) using Terraform (Infrastructure as Code)
 
