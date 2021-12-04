@@ -15,6 +15,10 @@ Deploying WordPress Website with the dedicated database server (MySQL) using Ter
 
 ## Some Basic Terminologies 
 - **WordPress**: WordPress is a free and open-source content management system written in PHP and paired with a MySQL or MariaDB database. Features include a plugin architecture and a template system, referred to within WordPress as Themes.
+
 - **MySQL**: MySQL is an open-source relational database management system. A relational database organizes data into one or more data tables in which data types may be related to each other; these relations help structure the data.
+
 - **Terraform**: Terraform is an open-source infrastructure as code software tool created by HashiCorp. Users define and provide data center infrastructure using a declarative configuration language known as HashiCorp Configuration Language, or optionally JSON.
 
+## Architecture
+![Job1](/Images/Architecture%20Design.png)
