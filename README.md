@@ -1,9 +1,14 @@
-
 # Deployment of WordPress and MySQL on AWS using Terraform
 Deploying WordPress Website with the dedicated database server (MySQL) using Terraform (Infrastructure as Code)
 
 ## Table of Contents
-
+1. [Objectives](https://github.com/kerilpatel/wordpress-and-mysql-architecture-aws#objectives)
+2. [Pre-requisites](https://github.com/kerilpatel/wordpress-and-mysql-architecture-aws#pre-requisites)
+3. [Some Basic Terminologies](https://github.com/kerilpatel/wordpress-and-mysql-architecture-aws#some-basic-terminologies)
+4. [Architecture](https://github.com/kerilpatel/wordpress-and-mysql-architecture-aws#architecture)
+5. [Project Steps](https://github.com/kerilpatel/wordpress-and-mysql-architecture-aws#project-steps)
+6. [Understanding Terraform Code](https://github.com/kerilpatel/wordpress-and-mysql-architecture-aws#understanding-terraform-code)
+7. [References](https://github.com/kerilpatel/wordpress-and-mysql-architecture-aws#references)
 
 ## Objectives
 - To deploy a WordPress Website with a dedicated MySQL Database Server
